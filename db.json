@@ -4,30 +4,35 @@
 			"title": "Test",
 			"benefits": "R$ 1.500,00",
 			"location": "Home Office",
+			"content": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Enim qui molestiae id nulla temporibus veniam ducimus eaque, sint soluta, voluptatum quasi quidem ex? Perspiciatis vel optio numquam tempore quasi ipsum? Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia harum nostrum cupiditate aut pariatur modi? Nobis, numquam a reiciendis ad ab harum aut mollitia consequuntur quisquam omnis! Facere, voluptates ipsum.",
 			"opportunityUrl": "#"
 		},
 		{
 			"title": "Test 2",
 			"benefits": "R$ 1.900,00 + VR",
 			"location": "Home Office",
+			"content": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Enim qui molestiae id nulla temporibus veniam ducimus eaque, sint soluta, voluptatum quasi quidem ex? Perspiciatis vel optio numquam tempore quasi ipsum? Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia harum nostrum cupiditate aut pariatur modi? Nobis, numquam a reiciendis ad ab harum aut mollitia consequuntur quisquam omnis! Facere, voluptates ipsum.",
 			"opportunityUrl": "#"
 		},
 		{
 			"title": "Test 3",
 			"benefits": "R$ 1.200,00 + VR + VA",
 			"location": "Home Office",
+			"content": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Enim qui molestiae id nulla temporibus veniam ducimus eaque, sint soluta, voluptatum quasi quidem ex? Perspiciatis vel optio numquam tempore quasi ipsum? Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia harum nostrum cupiditate aut pariatur modi? Nobis, numquam a reiciendis ad ab harum aut mollitia consequuntur quisquam omnis! Facere, voluptates ipsum.",
 			"opportunityUrl": "#"
 		},
 		{
 			"title": "Test 4",
 			"benefits": "R$ 1.750,00",
 			"location": "Home Office",
+			"content": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Enim qui molestiae id nulla temporibus veniam ducimus eaque, sint soluta, voluptatum quasi quidem ex? Perspiciatis vel optio numquam tempore quasi ipsum? Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia harum nostrum cupiditate aut pariatur modi? Nobis, numquam a reiciendis ad ab harum aut mollitia consequuntur quisquam omnis! Facere, voluptates ipsum.",
 			"opportunityUrl": "#"
 		},
 		{
 			"title": "Test 5",
 			"benefits": "R$ 1.050,00 + VR + VA",
 			"location": "Home Office",
+			"content": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Enim qui molestiae id nulla temporibus veniam ducimus eaque, sint soluta, voluptatum quasi quidem ex? Perspiciatis vel optio numquam tempore quasi ipsum? Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia harum nostrum cupiditate aut pariatur modi? Nobis, numquam a reiciendis ad ab harum aut mollitia consequuntur quisquam omnis! Facere, voluptates ipsum.",
 			"opportunityUrl": "#"
 		}
 	]
